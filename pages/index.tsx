@@ -7,7 +7,7 @@ const Box = styled.div`
   height: 200px;
   width: 200px;
   background-color: tomato;
-  /* animation: spin 2s linear infinite; */
+  animation: spin 2s linear infinite;
   @keyframes spin {
     from {
       transform: rotate(0deg);
